@@ -19,6 +19,7 @@
 		DE439432288951080058E97A /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE439431288951080058E97A /* ImageBootcamp.swift */; };
 		DE439434288954D30058E97A /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE439433288954D30058E97A /* FrameBootcamp.swift */; };
 		DE439436288957720058E97A /* Background&OverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE439435288957720058E97A /* Background&OverlayBootcamp.swift */; };
+		DE43943828895D4F0058E97A /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE43943728895D4F0058E97A /* StacksBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		DE439431288951080058E97A /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		DE439433288954D30058E97A /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		DE439435288957720058E97A /* Background&OverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Background&OverlayBootcamp.swift"; sourceTree = "<group>"; };
+		DE43943728895D4F0058E97A /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				DE439431288951080058E97A /* ImageBootcamp.swift */,
 				DE439433288954D30058E97A /* FrameBootcamp.swift */,
 				DE439435288957720058E97A /* Background&OverlayBootcamp.swift */,
+				DE43943728895D4F0058E97A /* StacksBootcamp.swift */,
 			);
 			path = "Bootcamp-1";
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 				DE1EEFBB28889622007A50E3 /* TextBootcamp.swift in Sources */,
 				DE1EEFAD28889569007A50E3 /* Bootcamp_1App.swift in Sources */,
 				DE439432288951080058E97A /* ImageBootcamp.swift in Sources */,
+				DE43943828895D4F0058E97A /* StacksBootcamp.swift in Sources */,
 				DE439436288957720058E97A /* Background&OverlayBootcamp.swift in Sources */,
 				DE43943028894F9F0058E97A /* IconsBootcamp.swift in Sources */,
 			);
