@@ -14,6 +14,7 @@
 		DE1EEFBB28889622007A50E3 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE1EEFBA28889622007A50E3 /* TextBootcamp.swift */; };
 		DE1EEFBD2888974D007A50E3 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE1EEFBC2888974D007A50E3 /* ShapesBootcamp.swift */; };
 		DE43942C28893ADA0058E97A /* ColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE43942B28893ADA0058E97A /* ColorBootcamp.swift */; };
+		DE43942E28894DDA0058E97A /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE43942D28894DDA0058E97A /* GradientsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		DE1EEFBA28889622007A50E3 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		DE1EEFBC2888974D007A50E3 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		DE43942B28893ADA0058E97A /* ColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootcamp.swift; sourceTree = "<group>"; };
+		DE43942D28894DDA0058E97A /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				DE1EEFBA28889622007A50E3 /* TextBootcamp.swift */,
 				DE1EEFBC2888974D007A50E3 /* ShapesBootcamp.swift */,
 				DE43942B28893ADA0058E97A /* ColorBootcamp.swift */,
+				DE43942D28894DDA0058E97A /* GradientsBootcamp.swift */,
 			);
 			path = "Bootcamp-1";
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE43942E28894DDA0058E97A /* GradientsBootcamp.swift in Sources */,
 				DE43942C28893ADA0058E97A /* ColorBootcamp.swift in Sources */,
 				DE1EEFBD2888974D007A50E3 /* ShapesBootcamp.swift in Sources */,
 				DE1EEFAF28889569007A50E3 /* ContentView.swift in Sources */,
